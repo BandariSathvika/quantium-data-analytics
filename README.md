@@ -45,4 +45,4 @@ Insights:
 ### Task 3: Analytics and commercial application
 - Prepared a report in Powerpoint highlighting key insights from Tasks 1 and 2 using the Pyramid Principle
 
-
+###Certificate
